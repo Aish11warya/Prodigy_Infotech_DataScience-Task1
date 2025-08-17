@@ -22,7 +22,7 @@ For this task, I utilized the [(world population data)](worldpopulationdata.csv)
 
 ## EDA
 
-The EDA process involved two major steps:
+The Exploratory Data Analysis process involved two major steps:
 
 - Data Preprocessing – Identified and handled missing values, duplicates, and outliers to ensure data quality and consistency.
 
