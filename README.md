@@ -20,4 +20,4 @@ The following tools and libraries were used in this project:
 
 For this task, I utilized the [(world population data)](worldpopulationdata.csv), which provides yearly population statistics ranging from 2001 to 2022. This dataset serves as the basis for performing data analysis and visualization.
 
-## EXPLORATORY DATA ANALYSIS(EDA)
+## EDA
