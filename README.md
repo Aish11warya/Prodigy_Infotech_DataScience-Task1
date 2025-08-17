@@ -30,4 +30,7 @@ The Exploratory Data Analysis process involved two major steps:
 
 ## CONCLUSION
  Through this EDA, I was able to uncover meaningful insights about how the chosen variables are distributed in the dataset. These findings provide a foundation for deeper analysis and predictive modeling within the data science pipeline.
+
+ ## CONTACT
+ ![Alt Text]()
  
