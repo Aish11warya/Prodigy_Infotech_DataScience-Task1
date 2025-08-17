@@ -21,3 +21,9 @@ The following tools and libraries were used in this project:
 For this task, I utilized the [(world population data)](worldpopulationdata.csv), which provides yearly population statistics ranging from 2001 to 2022. This dataset serves as the basis for performing data analysis and visualization.
 
 ## EDA
+
+The EDA process involved two major steps:
+
+- Data Preprocessing – Identified and handled missing values, duplicates, and outliers to ensure data quality and consistency.
+
+- Data Visualization – Generated bar charts and stacked plots to effectively display the distribution of categorical and continuous variables.
