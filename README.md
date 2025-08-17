@@ -7,3 +7,14 @@ The objective of this task is to create a bar chart or histogram in order to dis
 
 ## WORK DESCRIPTION
 For Task 1 of the Prodigy InfoTech Data Science Internship, I carried out Exploratory Data Analysis (EDA) on the provided dataset. The focus was on developing meaningful visualizations, specifically bar charts and stacked chart, to represent the distribution of a chosen categorical or numerical feature. This helps in understanding the underlying patterns in the data, such as population distribution across genders or age groups.
+
+##Tools & Libraries
+The following tools and libraries were used in this project:
+
+Jupyter Notebook for coding and experimentation
+
+Pandas for data manipulation and preprocessing
+
+NumPy for numerical operations
+
+Matplotlib & Seaborn for data visualization
