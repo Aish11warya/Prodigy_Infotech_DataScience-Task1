@@ -27,3 +27,7 @@ The Exploratory Data Analysis process involved two major steps:
 - Data Preprocessing – Identified and handled missing values, duplicates, and outliers to ensure data quality and consistency.
 
 - Data Visualization – Generated bar charts and stacked plots to effectively display the distribution of categorical and continuous variables.
+
+## CONCLUSION
+ Through this EDA, I was able to uncover meaningful insights about how the chosen variables are distributed in the dataset. These findings provide a foundation for deeper analysis and predictive modeling within the data science pipeline.
+ 
