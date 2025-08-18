@@ -33,3 +33,5 @@ The Exploratory Data Analysis process involved two major steps:
 
  ## CONTACT
   - EMAIL 11aishwarya00@gmail.com
+
+Thank you for reviewing my internship task submission!
